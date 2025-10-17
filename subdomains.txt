@@ -1,0 +1,8 @@
+www
+mail
+dev
+staging
+api
+admin
+test
+shop
